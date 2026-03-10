@@ -84,6 +84,9 @@ These insights can help automotive companies improve **sales strategies, regiona
 View the interactive dashboard here:  
 👉 [Car Sales Report on Tableau Public](https://public.tableau.com/app/profile/sandy.moseru/viz/Car_sales_report/Incomevscarmodel)
 
+### 📸 Dashboard Preview
+![Car Sales Dashboard Preview](https://github.com/Sandy-With-Data56/Car-sales-analysis-tableau-dashboard/blob/main/dashboard-preview.png)
+
 ---
 
 ## ✅ Conclusion
